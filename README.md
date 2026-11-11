@@ -82,3 +82,7 @@ With the hardware bus (`/dev/i2c-1`), pass `bus=1` instead.
 ## Background
 
 Written for a distributed IoT system that monitors miniature space greenhouses, where several Raspberry Pi 5 hubs read SEN66 sensors and publish the data over MQTT.
+
+## License
+
+MIT, see [LICENSE](LICENSE).
